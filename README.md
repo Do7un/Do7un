@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Do7un
 - 👀 I’m interested in mobile and web app development.
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning C++
+- Year goal to learn C++, C and C#. 
 - 💞️ I’m looking to collaborate on my specified interests
 - 📫 How to reach me olusomiakinbo@gmail.com
 
